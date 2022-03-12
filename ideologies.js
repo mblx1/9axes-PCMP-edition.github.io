@@ -162,12 +162,12 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "Democratic Progressive Party (Social Liberalism)",
         "stats": {
             "econ": 60,
             "dipl": 60,
-            "govt": 60,
-            "scty": 80
+            "govt": 50,
+            "scty": 70
         }
     },
     {
@@ -315,9 +315,9 @@ ideologies = [
         }
     },
     {
-        "name": "Nazism",
+        "name": "National Socialism",
         "stats": {
-            "econ": 40,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 5
@@ -466,5 +466,34 @@ ideologies = [
             "govt": 100,
             "scty": 50
         }
-    }
-];
+    },
+    {
+        "name": "Libertarian Right",
+        "stats": {
+            "econ": 25,
+            "dipl": 50,
+            "govt": 75,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Patriot Party",
+        "stats": {
+            "econ": 25,
+            "dipl": 40,
+            "govt": 25,
+            "scty": 25
+        }
+    },
+    {
+        "name": "Communist Party",
+        "stats": {
+            "econ": 100,
+            "dipl": 40,
+            "govt": 60,
+            "scty": 90
+        }
+    },
+   
+
+    ];

@@ -1,85 +1,85 @@
 questions = 
     [[//Federal-Unitary`
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "The Republic doesn't need a federal government; let's become a confederacy",
+            "Purple province had the right to secede.",
+            "District 5 has the right to secede."
         ],
         [//3
             "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "Abolish the role of president, make governor the most prestigious role an individual can achieve.",
+            "People should hold more loyalty to their province than the Republic."
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            "Provinces should have more autonomy than they currently do",
+            "Provinces that failed to become canon democratically (like monke) should become off-map, autonomous regions.",
+            "It's a good idea to test a policy in one province rather than implementing it in all of the Republic right away"
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "Province leaders are doing a better job at improving provinces than the president is.",
+            "Province senators should have more power",
+            "Governors give their province's citizens good representation of their views"
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "The Republic wouldn't function without the Federal government",
+            "The nationwide PCM republic helps its minorities better than any province would.",
+            "There are many issues that it doesn't make sense to address at a provincial level"
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "If a province wants to implement a law, they should ask President Door to approve it before implementing it. ",
+            "Provinces should not be able to exempt from national laws",
+            "People should think of themselves as citizens of the Republic rather than their province."
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "The PDR must be violently punished for seceding.",
+            "Keep the Federal government as strong as possible; we must protect the citizens that way.",
+            "The strength of the Republic allows the provinces to function."
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "ABOLISH THE PROVINCES!",
+            "All provinces should have the same laws.",
+            "Strong states weaken the Republic."
         ]],[//Democratic-Authoritarian`
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "Bring complete direct democracy to the Republic!",
+            "From economics to social issues to even possible secession; all issues shall be voted on by everyone.",
+            "There's no point of representatives, if a party holds a policy that everyone's in favour of, the whole party should work to implement it"
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
+            "It is important that the leaders (whether provincial or federal) follow the majority opinion, even if it is wrong.",
+            "Lots of polls on the subreddit have made it a better place.",
             "Nobody but me can adequately represent my views"
         ],
         [//2
             "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "PCM Parliament members need to realise Democracy is the worst form of government elections, except for all the others we've tried.",
+            "The Patriots split into two parties was beneficial for democracy because it stopped a two party monopoly between them and the DPP."
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
+            "Democracy is the voice of the people.",
+            "We shall elect the leaders democratically.",
             "The government must be by the people for the people"
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "The leaders must be strong enough to tackle everything that comes at them.",
+            "I am unsatisfied with some decisions made by democratic polls in-simulation and/or real-life",
+            "The moderators must exercise their powers appropriately to prevent the simulation from descending into chaos."
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+             "Hierarchy is crucial to the Republic.",
+            "The Republic must have leaders and followers to function.",
+             "Majority parties like the Patriots come at the expense of minorities."
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "The citizens make poor decisions.",
+             "If any, the only competition my party should have should have similar policy to ours.",
+            "I was happy to see the UPP, PSP and various other parties fall, less competition!"
         ],
         [//-4
             "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
+            "Ignore the votes, start a dictatorship!",
+            "The president's word must be obeyed with no exceptions or objections"
         ]],[//Globalist-Isolationist
         [//4
             "A united world government would be beneficial to mankind.",
@@ -88,7 +88,7 @@ questions =
         ],
         [//3
             "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
+            "PCM Parliament should appear on a map with other political simulations, and interact with them.",
             "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
         ],
         [//2
@@ -122,14 +122,14 @@ questions =
             "Any deals other countries want must be bad for us"
         ]],[//Militarist-Pacifist
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
+            "To get more resources or party power just start a war.",
+            "Constant war, canon or not, is what primarily makes the Republic interesting.",
             "Only those who serve in the military should be allowed to have influence on who is in power"
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "Any province I control will adopt compulsory military service.",
+            "I unironically want to take down Purple or the PCM Republic.",
+            "District 5 needs to use all it has to fend off Purple to not submit to communist tyranny."
         ],
         [//2
             "Military action by our nation is often necessary to protect it.",
@@ -147,39 +147,39 @@ questions =
             "Peace is preferable to war whenever possible"
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
+            "Even when protesting policy you don't like, violence is not acceptable.",
             "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "Most in-simulation wars are petty, and are a loss-loss to both sides."
         ],
         [//-3
             "Military spending is a waste of money.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "The Rouge and Monke Island bombings were unjustified",
+            "The simulation will fall apart with constant war"
         ],
         [//-4
             "War is never justified",
-            "In the modern era, militaries aren't really necessary",
+            "Ban everyone from simulating warfare or violence",
             "Nations should not maintain a military"
         ]],[//Security-Freedom
         [//4
-            "Those who disagree with the government should be removed from the country",
+            "Deport people who disagree with the state's decisions from my province and/or the Republic.",
             "The government should monitor all citizens to combat terrorism",
             "People should not have protections that could hinder discovering their criminal activity"
         ],
         [//3
-            "Police need more power and protection",
+            "A police state is a good idea.",
             "It is very important to maintain law and order.",
-            "A country must be sure to take all measures to enforce its laws"
+            "I would enforce laws at all costs if I could."
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
+            "Wire-tapping and other similar spying methods are based",
             "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
             "Government surveillance is necessary in the modern world."
         ],
         [//1
             "The government should have access to the emails of suspected terrorists",
             "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "Absolute freedom would make the Republic chaotic"
         ],
         [//-1
             "Marijuana should be legalized",
@@ -188,7 +188,7 @@ questions =
         ],
         [//-2
             "Abortion should be legal in all cases",
-            "Police should be regulated more",
+            "Freedom of speech should have no limits.",
             "No authority should be left unquestioned."
         ],
         [//-3
@@ -252,7 +252,7 @@ questions =
             "The government should not fund any religious organizations in any way"
         ],
         [//2
-            "I support gay marriage",
+            "The state must legalise same-sex marriage.",
             "Every religion must be looked upon equally by the government",
             "Religion should be removed from everything in our government"
         ],
@@ -282,8 +282,8 @@ questions =
             "Most bad things happening in the world are caused by us turning away from religion"
         ]],[//Progressive-Traditional
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
+            "The world presented in I, Robot is a utopia.",
+            "I support transhumanism and genetic modification.",
             "Tradition just hinders the progress of technology"
         ],
         [//3
@@ -292,7 +292,7 @@ questions =
             "When people have already suffered for technology to be developed, we should use that technology"
         ],
         [//2
-            "We should put effort into getting a person on Mars in the near future",
+            "Various members space efforts have been useful.",
             "Testing products on animals is ethical",
             "Technological progress is usually good"
             
@@ -309,7 +309,7 @@ questions =
         ],
         [//-2
             "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
+            "I didn't take the COVID vaccine, or wouldn't have if my job or education didn't force me to.",
             "Maintaining family values is essential."
         ],
         [//-3
@@ -318,13 +318,13 @@ questions =
             "The elders in society know the best path for it"
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
+            "Reject modern medicine.",
+            "Get rid of the Internet for good",
+            "RETURN TO MONKE!"
         ]],[//Assimilationist-Multiculturalist
         [//4
             "Foreigners should never enter the country",
-            "We should not allow any refugees",
+            "Ban moving from province to province.",
             "Only our national language(s) should be spoken in our country"
         ],
         [//3
@@ -360,6 +360,6 @@ questions =
         [//-4
             "Governments should be as concerned about foreign citizens as they are about those within their borders.",
             "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "Abolish the 5 week wait time for moving, and let people move around election time as well."
         ]
     ]];
