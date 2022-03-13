@@ -202,7 +202,7 @@ questions =
             "People's freedom should have no limits"
         ]],[//Equality-Markets`
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
+            "The economics of the seceded PDR far surpass that of any province still in the Republic.",
             "From each according to his ability, to each according to his need",
             "Equality of outcome is important"
         ],
@@ -219,7 +219,7 @@ questions =
         [//1
             "It is necessary for the government to intervene in the economy to protect consumers.",
             "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "Bring free public transport to the Republic!"
         ],
         [//-1
             "People should have the right to leave their wealth to their descendents",
@@ -229,7 +229,7 @@ questions =
         [//-2
             "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
             "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "Adminstrationmain94's fiscal reforms have benefitted Black province."
         ],
         [//-3
             "The freer the market, the freer the people",
@@ -258,7 +258,7 @@ questions =
         ],
         [//1
             "Religion does not belong in government",
-            "Laws should not be based on religion",
+            "Morality isn't objective.",
             "There must be a separation between church and state"
         ],
         [//-1
@@ -289,7 +289,7 @@ questions =
         [//3
             "Automation overall is extremely good for society",
             "Traditions are of no value on their own.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "Regardless of consequence, all technology that has been developed shall be utilised."
         ],
         [//2
             "Various members space efforts have been useful.",
@@ -318,8 +318,8 @@ questions =
             "The elders in society know the best path for it"
         ],
         [//-4
-            "Reject modern medicine.",
-            "Get rid of the Internet for good",
+            "I don't trust modern medicine.",
+            "Reactionary thought is appealing to me.",
             "RETURN TO MONKE!"
         ]],[//Assimilationist-Multiculturalist
         [//4
