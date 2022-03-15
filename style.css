@@ -1,5 +1,5 @@
 html {
-    background-color: #000000;
+    background-color: #EEEEEE;
     padding: 0px;
 }
 body {
@@ -7,18 +7,21 @@ body {
     min-height: calc(100vh - 4em);
     margin: 0 auto;
     padding: 2em;
-    background-color: #5a5a5a;
+    background-color: #555555;
     border-color: rgb(255, 253, 114);
     border-left-style: solid;
     border-right-style: solid;
     border-width: 20px;
 }
 p, li {
-    color: #444444;
+    color: #EEEEEE;
     font-family: 'Roboto', sans-serif;
     font-size: 16pt;
     line-height: 1;
     margin: 4pt;
+}
+img {
+    border-radius: 10%;
 }
 a{
     color: #2222DD;
@@ -32,13 +35,13 @@ p.value-description {
 }
 p.question {
     margin: 16pt auto;
-    color: #333333;
+    color: #eeeeee;
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     width: 70%;
     min-width: 500pt;
     min-height: 144pt;
-    background-color: #eeeeee;
+    background-color: #333333;
     padding: 16pt;
     border-radius: 16pt;
     font-size: 36pt;
@@ -61,7 +64,7 @@ h1 {
     text-align: center;
 }
 h2 {
-    color: #333333;
+    color: #EEEEEE;
     font-family: 'Montserrat', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
@@ -136,16 +139,16 @@ div.bar {
     border-right-width: 1px;
     border-top-style: solid;
     border-bottom-style: solid;
-    border-color: #222222;
-    background-color: #eeeeee;
+    border-color: #eeeeee;
+    background-color: #1f1e1e;
     display: block;
     width: 50%;
 }
 div.text-wrapper {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
-    color: #222222;
+    color: #000000;
     display: inline-block;
 }
 div.federal {
@@ -243,7 +246,7 @@ span.weight-300 {
     font-weight: 300;
 }
 canvas {
-    border-color: #444444;
+    border-color: #504f4f;
     border-style: solid;
     border-width: 2px;
     border-radius: 8pt;
