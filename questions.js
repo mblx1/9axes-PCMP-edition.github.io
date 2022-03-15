@@ -309,7 +309,7 @@ questions =
         ],
         [//-2
             "Technology is negatively affecting modern society",
-            "I didn't take the COVID vaccine, or wouldn't have if my job or education didn't force me to.",
+            "I believe in two genders.",
             "Maintaining family values is essential."
         ],
         [//-3
@@ -320,11 +320,11 @@ questions =
         [//-4
             "I don't trust modern medicine.",
             "Reactionary thought is appealing to me.",
-            "RETURN TO MONKE!"
+            "Hundreds of years ago; people were happier, plus physically and mentally superior."
         ]],[//Assimilationist-Multiculturalist
         [//4
             "Foreigners should never enter the country",
-            "Ban moving from province to province.",
+            "Ban moving from the Republic to an autonomous zone, or vice versa",
             "Only our national language(s) should be spoken in our country"
         ],
         [//3
