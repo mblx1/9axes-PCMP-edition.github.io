@@ -82,13 +82,13 @@
 <br><br>
 
 <h2 class="ideology">Closest Ideological/Party/User Match: <span class="weight-300" id="ideology-label"></span></h1>
-<p class="ideology">Your 8values ideology (see https://8values.github.io for more information)</p>
-<p class="ideology">Please note this does only factor the Democratic-Authoritarian, Globalist-Isolationist, Equality-Markets, and Progressive-Traditional axes.</p>
+<p class="ideology">Your ideological match using 8values' axis (see https://8values.github.io for more information)</p>
+<p class="ideology">Please note this does only factor the Security-Freedom, Globalist-Isolationist, Equality-Markets, and Progressive-Traditional axes.</p>
 
 <br><br>
 
 <canvas id="banner" width=800 height=1200 style="font-family:Montserrat"></canvas>
-<button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
+<button class="button" onclick="location.href='index.html';" style="background-color: #219cda;">Exit?</button> <br>
 <script>
     function getQueryVariable(variable)
     {
@@ -115,15 +115,15 @@
     rightArray = ["Unitary","Authoritarian","Isolationist","Pacifist","Freedom","Markets","Religious","Traditional","Multiculturalist"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { return "Fanatic " + leftArray[axis] } else
-        if (val >= 80) { return "Extreme " + leftArray[axis] } else
+        if (val >= 90) { return "Radical " + leftArray[axis] } else
+        if (val >= 80) { return "Pro-" + leftArray[axis] } else
         if (val >= 70) { return leftArray[axis] } else
         if (val >= 60) { return "Moderate " + leftArray[axis] } else
         if (val > 40) { return "Neutral" } else
         if (val > 30) { return "Moderate " + rightArray[axis] } else
         if (val > 20) { return rightArray[axis] } else
-        if (val > 10) { return "Extreme " + rightArray[axis] } else
-        	{return "Fanatic " + rightArray[axis]}
+        if (val > 10) { return "Pro-" + rightArray[axis] } else
+        	{return "Radical " + rightArray[axis]}
     }
 
     a  = getQueryVariable("a")
@@ -180,7 +180,7 @@
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
         dist += Math.pow(Math.abs(ideologies[i].stats.econ - f), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.govt - b), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.govt - e2), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.dipl - c), 1.73856063)
         dist += Math.pow(Math.abs(ideologies[i].stats.scty - h), 1.73856063)
         if (dist < ideodist) {
@@ -202,7 +202,7 @@
     window.onload = function() {
         var c = document.getElementById("banner")
         var ctx = c.getContext("2d")
-        ctx.fillStyle = "#EEEEEE"
+        ctx.fillStyle = "#777777"
         ctx.fillRect(0,0,800,1200)
 
         img = document.getElementById("img-federal")
@@ -242,7 +242,7 @@
         img = document.getElementById("img-multiculture")
         ctx.drawImage(img, 680, 1080, 100, 100)
 
-        ctx.fillStyle="#222222"
+        ctx.fillStyle="#EEEEEE"
         ctx.fillRect(120, 130, 560, 80)
         ctx.fillRect(120, 250, 560, 80)
         ctx.fillRect(120, 370, 560, 80)
@@ -289,13 +289,13 @@
         ctx.fillStyle="#3f51b5" 
         ctx.fillRect(682-5.6*i2, 1094, 5.6*i2-2, 72)
         ctx.fillStyle="#222222"
-        ctx.font="700 80px Montserrat"
+        ctx.font="700 50px Montserrat"
         ctx.textAlign="left"
-        ctx.fillText("9Axes", 20, 90)
+        ctx.fillText("PCMP Axes", 20, 90)
         ctx.font="40px Montserrat"
         ctx.textAlign="right"
 
-        ctx.font="50px Montserrat"
+        ctx.font="50px Segoe UI"
         ctx.textAlign="left"
         if (a  > 20) {ctx.fillText(a + "%", 130, 187.5)}
         if (b     > 20) {ctx.fillText(b + "%", 130, 307.5)}
@@ -318,8 +318,9 @@
         if (i2  > 20) {ctx.fillText(i2 + "%", 670, 1147.5)}
 
         ctx.font="300 30px Montserrat"
-        ctx.fillText("9Axes.github.io", 780, 55)
+        ctx.fillText("9Axes-PCMP-edition-github.io", 780, 55)
         ctx.textAlign="center"
+        ctx.fillStyle = "#EEEEEE"
         ctx.fillText(document.getElementById("a-label").innerHTML, 400, 125)
         ctx.fillText(document.getElementById("b-label").innerHTML, 400, 245)
         ctx.fillText(document.getElementById("c-label").innerHTML, 400, 365)
