@@ -27,7 +27,7 @@ questions =
             "There are many issues that it doesn't make sense to address at a provincial level"
         ],
         [//-2
-            "If a province wants to implement a law, they should ask President Door to approve it before implementing it. ",
+            "If a province wants to implement a law, they should ask the President to approve it before implementing it. ",
             "Provinces should not be able to exempt from national laws",
             "People should think of themselves as citizens of the Republic rather than their province."
         ],
@@ -239,7 +239,7 @@ questions =
         [//-4
             "The government should not regulate the economy at all",
             "The government should not break up monopolies",
-            "Those who do not work should die"
+            "We shouldn't help those who don't help themselves."
         ]],[//Secular-Religious
         [//4
             "Religion should be banned",
@@ -249,7 +249,7 @@ questions =
         [//3
             "Religious clothing should be banned from public",
             "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "Ban any party that is religion-centric from participating in the subreddit."
         ],
         [//2
             "The state must legalise same-sex marriage.",

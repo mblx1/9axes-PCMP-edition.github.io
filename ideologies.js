@@ -647,6 +647,15 @@ ideologies = [
                     "scty": 23
                 }
             },
+            {
+                "name": "New Independent Labour Party",
+                "stats": {
+                    "econ": 64,
+                    "dipl": 50,
+                    "govt": 65,
+                    "scty": 70
+                }
+            },
                 
                 
 
