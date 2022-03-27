@@ -193,7 +193,7 @@ questions =
         ],
         [//-3
             "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
+            "Vic's new Blue policies are literally 1984.",
             "Whistleblowers should be strongly protected"
         ],
         [//-4
