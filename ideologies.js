@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
+        "name": "Conservatism/Patriot Party",
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -405,7 +405,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fundamentalism",
+        "name": "Religious Fundamentalism",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism/Libertarian Right",
+        "name": "Right-Libertarianism/Libertarian Right Party",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism/Libertarian Right",
+        "name": "Market Anarchism/Libertarian Right Party",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism/Libertarian Right",
+        "name": "Objectivism/Libertarian Right Party",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ultra-Capitalism",
+        "name": "Laissez-Faire Capitalist",
         "stats": {
             "econ": 0,
             "dipl": 40,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism/Libertarian Right",
+        "name": "Anarcho-Capitalism/Libertarian Right Party",
         "stats": {
             "econ": 0,
             "dipl": 50,
@@ -468,7 +468,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Right",
+        "name": "Libertarian Right Party",
         "stats": {
             "econ": 25,
             "dipl": 50,
@@ -562,8 +562,8 @@ ideologies = [
                 "stats": {
                     "econ": 69,
                     "dipl": 46,
-                    "govt": 80,
-                    "scty": 62
+                    "govt": 88,
+                    "scty": 50
                 }
             },
             {

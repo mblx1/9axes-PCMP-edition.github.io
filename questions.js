@@ -269,7 +269,7 @@ questions =
         [//-2
             "I believe in a higher power",
             "Religious organizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "The Republic is too secular."
         ],
         [//-3
             "Religion usually provides the truth",
