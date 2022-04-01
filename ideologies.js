@@ -683,6 +683,15 @@ ideologies = [
             "scty": 100
         }
     },
+    {
+        "name": "u/Comrade_Alza",
+        "stats": {
+            "econ": 98,
+            "dipl": 34,
+            "govt": 35,
+            "scty": 71
+        }
+    },
             
                 
                 
