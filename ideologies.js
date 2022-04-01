@@ -495,7 +495,7 @@ ideologies = [
         }
     },
     {
-    "name": "New Libertarian Centre Party",
+        "name": "New Libertarian Centre Party",
         "stats": {
             "econ": 50,
             "dipl": 70,
@@ -505,166 +505,184 @@ ideologies = [
     },
     {
         "name": "Unionist Party",
-            "stats": {
-                "econ": 80,
-                "dipl": 80,
-                "govt": 80,
-                "scty": 80
-            }
-        },
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 80,
+            "scty": 80
+        }
+    },
     {
         "name": "Patriotic Socialist Party",
-            "stats": {
-                "econ": 67,
-                "dipl": 35,
-                "govt": 20,
-                "scty": 35
-            }
-        },
+        "stats": {
+            "econ": 67,
+            "dipl": 35,
+            "govt": 20,
+            "scty": 35
+        }
+    },
     {
         "name": "Socialist Nationalist Party",
-            "stats": {
-                "econ": 70,
-                "dipl": 20,
-                "govt": 15,
-                "scty": 30
-            }
-        },
+        "stats": {
+            "econ": 70,
+            "dipl": 20,
+            "govt": 15,
+            "scty": 30
+        }
+    },
     {
         "name": "u/TheBasedMBLX",
-                "stats": {
-                    "econ": 17,
-                    "dipl": 37,
-                    "govt": 72,
-                    "scty": 30
-                }
-            },
-            {
-                "name": "English Socialism",
-                "stats": {
-                    "econ": 50,
-                    "dipl": 0,
-                    "govt": 0,
-                    "scty": 0
-                }
-            },
-            {
-                "name": "u/OrganizationNo3213",
-                "stats": {
-                    "econ": 79,
-                    "dipl": 72,
-                    "govt": 65,
-                    "scty": 70
-                }
-            },
-            {
-                "name": "u/CornyPunz1",
-                "stats": {
-                    "econ": 69,
-                    "dipl": 46,
-                    "govt": 88,
-                    "scty": 50
-                }
-            },
-            {
-                "name": "u/Mackyboy41",
-                "stats": {
-                    "econ": 36,
-                    "dipl": 35,
-                    "govt": 30,
-                    "scty": 35
-                }
-            },
-            {
-                "name": "u/Leftandright161616",
-                "stats": {
-                    "econ": 62,
-                    "dipl": 19,
-                    "govt": 10,
-                    "scty": 24
-                }
-            },
-            {
-                "name": "u/Callemannen007",
-                "stats": {
-                    "econ": 36,
-                    "dipl": 60,
-                    "govt": 64,
-                    "scty": 60
-                }
-            },
-            {
-                "name": "u/xrc1808",
-                "stats": {
-                    "econ": 36,
-                    "dipl": 30,
-                    "govt": 21,
-                    "scty": 30
-                }
-            },
-            {
-                "name": "u/lost_mah_account",
-                "stats": {
-                    "econ": 83.3,
-                    "dipl": 50,
-                    "govt": 50,
-                    "scty": 70
-                }
-            },
-            {
-                "name": "u/theleningradcowboy",
-                "stats": {
-                    "econ": 93,
-                    "dipl": 87,
-                    "govt": 84,
-                    "scty": 95
-                }
-            },
-            {
-                "name": "u/vicandmath",
-                "stats": {
-                    "econ": 21,
-                    "dipl": 33,
-                    "govt": 22,
-                    "scty": 16
-                }
-            },
-            {
-                "name": "u/kingofthewombat",
-                "stats": {
-                    "econ": 64,
-                    "dipl": 60,
-                    "govt": 56,
-                    "scty": 73
-                }
-            },
-            {
-                "name": "u/AdministrationMain94",
-                "stats": {
-                    "econ": 16,
-                    "dipl": 18,
-                    "govt": 77,
-                    "scty": 23
-                }
-            },
-            {
-                "name": "New Independent Labour Party",
-                "stats": {
-                    "econ": 64,
-                    "dipl": 50,
-                    "govt": 65,
-                    "scty": 70
-                }
-            },
-            {
-                "name": "Cosmopolitan Totalitarianism",
-                "stats": {
-                    "econ": 50,
-                    "dipl": 100,
-                    "govt": 0,
-                    "scty": 100
-                }
-            },
+        "stats": {
+            "econ": 17,
+            "dipl": 37,
+            "govt": 72,
+            "scty": 30
+        }
+    },
+    {
+        "name": "English Socialism",
+        "stats": {
+            "econ": 50,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "name": "u/OrganizationNo3213",
+        "stats": {
+            "econ": 79,
+            "dipl": 72,
+            "govt": 65,
+            "scty": 70
+        }
+    },
+    {
+        "name": "u/CornyPunz1",
+        "stats": {
+            "econ": 69,
+            "dipl": 46,
+            "govt": 88,
+            "scty": 50
+        }
+    },
+    {
+        "name": "u/Mackyboy41",
+        "stats": {
+            "econ": 36,
+            "dipl": 35,
+            "govt": 30,
+            "scty": 35
+        }
+    },
+    {
+        "name": "u/Leftandright161616",
+        "stats": {
+            "econ": 62,
+            "dipl": 19,
+            "govt": 10,
+            "scty": 24
+        }
+    },
+    {
+        "name": "u/Callemannen007",
+        "stats": {
+            "econ": 36,
+            "dipl": 60,
+            "govt": 64,
+            "scty": 60
+        }
+    },
+    {
+        "name": "u/xrc1808",
+        "stats": {
+            "econ": 36,
+            "dipl": 30,
+            "govt": 21,
+            "scty": 30
+        }
+    },
+    {
+        "name": "u/lost_mah_account",
+        "stats": {
+            "econ": 83.3,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 70
+        }
+    },
+    {
+        "name": "u/theleningradcowboy",
+        "stats": {
+            "econ": 93,
+            "dipl": 87,
+            "govt": 84,
+            "scty": 95
+        }
+    },
+    {
+        "name": "u/vicandmath",
+        "stats": {
+            "econ": 21,
+            "dipl": 33,
+            "govt": 22,
+            "scty": 16
+        }
+    },
+    {
+        "name": "u/kingofthewombat",
+        "stats": {
+            "econ": 64,
+            "dipl": 60,
+            "govt": 56,
+            "scty": 73
+        }
+    },
+    {
+        "name": "u/AdministrationMain94",
+        "stats": {
+            "econ": 16,
+            "dipl": 18,
+            "govt": 77,
+            "scty": 23
+        }
+    },
+    {
+        "name": "u/ultkingthuta",
+        "stats": {
+            "econ": 45,
+            "dipl": 50,
+            "govt": 18,
+            "scty": 38
+        }
+    },
+    {
+        "name": "u/drippydrub213",
+        "stats": {
+            "econ": 47,
+            "dipl": 50,
+            "govt": 30,
+            "scty": 25
+        }
+    },
+    {
+        "name": "New Independent Labour Party",
+        "stats": {
+            "econ": 64,
+            "dipl": 50,
+            "govt": 65,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Cosmopolitan Totalitarianism",
+        "stats": {
+            "econ": 50,
+            "dipl": 100,
+            "govt": 0,
+            "scty": 100
+        }
+    },
             
                 
                 
