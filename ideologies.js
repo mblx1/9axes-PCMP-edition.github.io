@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
+        "name": "Right-Wing Populism/Patriot Party",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -333,7 +333,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fascism",
+        "name": "Classical Fascism",
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "National Capitalism",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -389,9 +389,9 @@ ideologies = [
     {
         "name": "State Capitalism",
         "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 30,
+            "econ": 50,
+            "dipl": 40,
+            "govt": 25,
             "scty": 50
         }
     },
@@ -441,12 +441,12 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarian Capitalism",
+        "name": "National Capitalism",
         "stats": {
             "econ": 0,
-            "dipl": 30,
+            "dipl": 25,
             "govt": 0,
-            "scty": 50
+            "scty": 10
         }
     },
     {
@@ -512,26 +512,26 @@ ideologies = [
                 "scty": 80
             }
         },
-        {
-            "name": "Patriotic Socialist Party",
-                "stats": {
-                    "econ": 67,
-                    "dipl": 35,
-                    "govt": 20,
-                    "scty": 35
-                }
-            },
-            {
-                "name": "Socialist Nationalist Party",
-                    "stats": {
-                        "econ": 70,
-                        "dipl": 20,
-                        "govt": 15,
-                        "scty": 30
-                    }
-                },
-                {
-                "name": "u/TheBasedMBLX",
+    {
+        "name": "Patriotic Socialist Party",
+            "stats": {
+                "econ": 67,
+                "dipl": 35,
+                "govt": 20,
+                "scty": 35
+            }
+        },
+    {
+        "name": "Socialist Nationalist Party",
+            "stats": {
+                "econ": 70,
+                "dipl": 20,
+                "govt": 15,
+                "scty": 30
+            }
+        },
+    {
+        "name": "u/TheBasedMBLX",
                 "stats": {
                     "econ": 17,
                     "dipl": 37,
@@ -625,7 +625,7 @@ ideologies = [
                 "stats": {
                     "econ": 21,
                     "dipl": 33,
-                    "govt": 28,
+                    "govt": 22,
                     "scty": 16
                 }
             },
@@ -656,6 +656,16 @@ ideologies = [
                     "scty": 70
                 }
             },
+            {
+                "name": "Cosmopolitan Totalitarianism",
+                "stats": {
+                    "econ": 50,
+                    "dipl": 100,
+                    "govt": 0,
+                    "scty": 100
+                }
+            },
+            
                 
                 
 
