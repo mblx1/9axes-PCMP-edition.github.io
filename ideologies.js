@@ -692,6 +692,15 @@ ideologies = [
             "scty": 71
         }
     },
+    {
+        "name": "u/EuSouEu_69",
+        "stats": {
+            "econ": 50,
+            "dipl": 96,
+            "govt": 75,
+            "scty": 85
+        }
+    },
             
                 
                 
