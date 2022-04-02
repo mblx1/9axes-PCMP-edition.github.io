@@ -701,6 +701,15 @@ ideologies = [
             "scty": 85
         }
     },
+    {
+        "name": "u/thiggatron",
+        "stats": {
+            "econ": 98,
+            "dipl": 36,
+            "govt": 27,
+            "scty": 75
+        }
+    },
             
                 
                 
